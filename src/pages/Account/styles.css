@@ -1,0 +1,52 @@
+.account-bg {
+  min-height: 100vh;
+  text-align: center;
+  padding-bottom: 120px;
+}
+
+.account-title {
+  transform: translateY(48px);
+  color: #000000 !important;
+  font-size: 64px !important;
+  font-weight: bold !important;
+}
+
+.primary-divider {
+  padding: 48px 0px;
+}
+
+.link-divider {
+  background-color: #7786d5 !important;
+  margin: 48px 0px;
+}
+
+.create-button {
+  font-size: 1.25rem !important;
+  padding: 0px 36px !important;
+}
+
+.image-preview img {
+  border-radius: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+}
+
+input[type='file'] {
+  display: none !important;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+  border-radius: 15px !important;
+}
+
+.ant-select-selection-placeholder {
+  color: #7786d5 !important;
+}
+
+.preview-btn {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+}
+
+.preview-btn:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0) !important;
+}

@@ -1,0 +1,11 @@
+/* imports */
+@import '../../pages/Home/styles.css';
+@import '../../pages/SignIn/styles.css';
+@import '../../pages/Account/styles.css';
+@import '../../pages/Profile/styles.css';
+
+body {
+  scroll-behavior: smooth !important;
+  overflow-x: hidden !important;
+  max-width: 100vw !important;
+}

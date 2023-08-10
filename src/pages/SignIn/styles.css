@@ -1,0 +1,47 @@
+.home-bg {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../../assets/images/blocks.webp);
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.login-text {
+  transform: translateY(48px);
+  color: #ffffff !important;
+  font-size: 64px !important;
+  font-weight: bold !important;
+}
+
+.header-logo {
+  height: 50px;
+}
+
+.header-logo:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.header-menu {
+  top: 0;
+  right: 0;
+  position: absolute;
+  padding-right: 75px;
+}
+
+.hero-divider {
+  padding: 48px 0px;
+}
+
+.hero-button {
+  font-size: 24px !important;
+  padding: 0px 48px !important;
+}
+
+.meta-mask {
+  margin-top: -6px;
+  margin-left: 24px;
+  height: 30px;
+}

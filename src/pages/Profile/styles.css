@@ -1,0 +1,81 @@
+.profile-bg {
+  min-height: 100vh;
+  text-align: center;
+  padding-bottom: 240px;
+}
+
+.profile-title {
+  font-size: 64px !important;
+  font-weight: bold !important;
+  padding-top: 18px;
+}
+
+.profile-header {
+  transform: translateY(48px);
+}
+
+.profile-divider {
+  margin: 36px 0px;
+}
+
+.profile-bg button {
+  font-size: 18px;
+  height: 48px;
+  margin: 24px 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+}
+
+.profile-bg button:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0) !important;
+}
+
+.profile-bg a {
+  font-size: 18px;
+  height: 48px;
+  padding-top: 8px;
+  margin-top: 24px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+}
+
+.profile-bg a:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0) !important;
+}
+
+.profile-bg h3 {
+  padding-top: 8px;
+  margin-top: 24px;
+}
+
+.profile-bg .ant-collapse {
+  font-size: 18px;
+  margin: 24px 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+}
+
+.profile-bg .ant-collapse:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0) !important;
+}
+
+.upload-btn {
+  font-size: 14px !important;
+  margin: 0px !important;
+  height: auto !important;
+}
+
+.social-icon {
+  font-size: 14px !important;
+  margin: 0px !important;
+  height: auto !important;
+  border: none !important;
+}
+
+.social-icon svg {
+  font-size: 36px !important;
+}
+
+.error {
+  display: flex;
+  max-height: 100vh;
+  max-width: 100vw;
+  margin: auto;
+}
